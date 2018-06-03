@@ -1,5 +1,9 @@
 # Changelog
 
+**9.6-3 (latest)**
+- fork from https://github.com/sameersbn/docker-postgresql.git
+- upgrade baseimage to hrtshu/ubuntu:18.04.20180602
+
 **9.6**
 - postgresql: upgrade to 9.6
 - upgrade baseimage to sameersbn/ubuntu:14.04.20170110
